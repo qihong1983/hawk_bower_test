@@ -1,16 +1,11 @@
 {
-  "name": "hawk-bower-test",
-  "version": "0.0.1",
+  "name": "hawk_bower_test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/qihong1983/hawk-bower-test",
   "authors": [
     "qihong <qihongbin@163.com>"
   ],
-  "description": "slider",
-  "main": "hawk-bower-test.js",
-  "keywords": [
-    "asdf"
-  ],
   "license": "MIT",
-  "homepage": "index.html",
   "private": true,
   "ignore": [
     "**/.*",
