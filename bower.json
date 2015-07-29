@@ -1,0 +1,22 @@
+{
+  "name": "slider",
+  "version": "0.0.1",
+  "authors": [
+    "qihong <qihongbin@163.com>"
+  ],
+  "description": "slider",
+  "main": "hawk-bower-test.js",
+  "keywords": [
+    "asdf"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
